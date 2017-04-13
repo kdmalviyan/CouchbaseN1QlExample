@@ -1,0 +1,6 @@
+
+ {"CRUD_BUCKET":{"name":"Kuldeep Singh","password":"password","location":{"Flat":"CG1 403","Locality":"Supertech","city":"Noida","Sector":74},"type":"user"}}
+ {"CRUD_BUCKET":{"name":"Amit Pathak","password":"password","location":{"Flat":"SZ2","Locality":"Impetus","city":"Noida","Sector":81},"type":"user"}}
+ {"CRUD_BUCKET":{"name":"Suniil Gupta","password":"password","location":{"Flat":"Gaur Village","Locality":"Crossing Republic","city":"Ghaziabad"},"type":"user"}}
+ {"CRUD_BUCKET":{"name":"Vijay Dubey","password":"password","location":{"Flat":"D40","Locality":"Impetus","city":"Noida","Sector":59},"type":"user"}}
+ {"CRUD_BUCKET":{"name":"Sunil Yadav","password":"password","location":{"Flat":"ASF Insignia","Locality":"Gwal Pahari","city":"Gurgaon"},"type":"user"}}
